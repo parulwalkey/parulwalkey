@@ -26,7 +26,7 @@
 
 ## 👋 About Me
 
-I'm an Engineering Management graduate with **2+ years of experience across manufacturing operations, supply chain, project coordination, analytics, and process improvement**.
+I'm an Engineering Management graduate with **2+ years of experience across project coordination, operations, supply chain, analytics, and process improvement**.
 
 At **Linde**, I worked across production planning, inventory management, procurement coordination, operational analytics, and cross-functional improvement initiatives across two manufacturing plants.
 
@@ -38,7 +38,7 @@ I'm especially interested in opportunities across:
 
 * 📦 Supply Chain & Operations
 * 📋 Project / Program Coordination
-* 🚀 Product Operations & Associate Product Management
+* 🚀 Product Operations & Product Management
 * 🤖 AI-enabled Products & Workflows
 
 ---
@@ -173,7 +173,7 @@ Advanced Excel · VBA · Macros · PivotTables · SQL · Tableau · Power BI · 
 
 ### Linde LSAS
 
-**Operations Engineer | Oct 2022 – Jun 2024**
+**Operations Engineer | Oct 2022 - Jun 2024**
 
 Worked across supply-chain operations, manufacturing, production planning, inventory management, procurement coordination, analytics, and process-improvement initiatives across two industrial manufacturing plants.
 
@@ -188,9 +188,9 @@ Highlights:
 
 ---
 
-### AnnieGuard — BWTech @ UMBC
+### AnnieGuard - BWTech @ UMBC
 
-**Project Lead | Jan 2025 – May 2025**
+**Project Lead | Jan 2025 - May 2025**
 
 Led a four-member venture team across customer discovery, project planning, requirements definition, execution, stakeholder communication, and final delivery.
 
@@ -202,22 +202,22 @@ Led a four-member venture team across customer discovery, project planning, requ
 
 ### University of Maryland, Baltimore County (UMBC)
 
-**Engineering Management**
-2024 – 2026
+**Masters, Engineering Management**
+2024 - 2026
 
 ### Visvesvaraya National Institute of Technology, Nagpur
 
-**B.Tech — Chemical Engineering**
+**B.Tech, Chemical Engineering**
 
 ---
 
 ## 🏅 Certifications
 
-* ✅ Lean Six Sigma Green Belt — CSSC
+* ✅ Lean Six Sigma Green Belt - CSSC
 * ✅ Google Project Management Professional Certificate
 * ✅ Google AI Essentials
-* 📚 Certified Associate in Project Management (CAPM) — In Progress
-* 📚 Oracle OCI AI Foundations Associate — In Progress
+* 📚 Certified Associate in Project Management (CAPM) - In Progress
+* 📚 Oracle OCI AI Foundations Associate - In Progress
 
 ---
 
@@ -237,7 +237,7 @@ Some areas I enjoy exploring:
 
 ## 🤝 Let's Connect
 
-I'm currently exploring opportunities across **Supply Chain, Project Management, Product Operations, Associate Product Management, and AI-enabled Product roles**.
+I'm currently exploring opportunities across **Supply Chain, Project Management, Product Operations, Product Management, and AI-enabled Product roles**.
 
 I'm always interested in connecting with people working on interesting products, operational problems, and emerging technologies.
 
