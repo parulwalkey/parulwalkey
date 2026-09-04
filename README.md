@@ -12,9 +12,11 @@
 
 <br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)](https://github.com/parulwalkey)
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Parul%20Walkey-0A66C2?style=flat-square\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/parul-walkey/)
+ 
+[![Portfolio](https://img.shields.io/badge/Portfolio-View%20My%20Work-6f42c1?style=flat-square\&logo=githubpages\&logoColor=white)](https://parulwalkey.github.io/resume/#top)
+ 
+[![GitHub](https://img.shields.io/badge/GitHub-parulwalkey-181717?style=flat-square\&logo=github\&logoColor=white)](https://github.com/parulwalkey)
  
 [![Supplier Intelligence Copilot](https://img.shields.io/badge/Supplier%20Intelligence%20Copilot-Live%20Demo-0A66C2?style=flat-square)](https://supplier-intelligence-copilot.netlify.app)
 
